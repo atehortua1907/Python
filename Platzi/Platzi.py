@@ -17,16 +17,19 @@ import turtle
 
 #Ejemplo enviado por un compañero del curso, pinta un exagono 360 veces y 
 #se ve en forma de espiral
-window = turtle.Screen()
+# window = turtle.Screen()
 
-colors=['red','purple','blue','green','yellow','orange']
+# colors=['red','purple','blue','green','yellow','orange']
 
-t = turtle.Pen()
-t.speed(0)
-for x in range(360):
-    t.pencolor(colors[x%6])
-    t.width(x/100+1)
-    t.forward(x)
-    t.left(59)
+# t = turtle.Pen()
+# t.speed(0)
+# for x in range(360):
+#     t.pencolor(colors[x%6])
+#     t.width(x/100+1)
+#     t.forward(x)
+#     t.left(59)
 
-turtle.mainloop()
+# turtle.mainloop()
+
+a /= 5
+print(a)
