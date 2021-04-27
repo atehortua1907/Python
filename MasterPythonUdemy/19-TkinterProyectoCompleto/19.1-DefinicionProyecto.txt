@@ -3,7 +3,7 @@
     - Ventana
     - Tamaño fijo
     - No redimensionable
-    - Un menu
+    - Un menu (Inicio, Añadir, Información, Salir)
     - Diferentes pantallas
     - Formulario de añadir productos
     - Guardar datos temporalmente
